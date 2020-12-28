@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For EasyA6
+#######################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+EasyA6	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+begin	KEYWORD2
+EasyA6	KEYWORD2
+command	KEYWORD2
+readSMS	KEYWORD2
+sendSMS	KEYWORD2
+postRequest	KEYWORD2
+httpRequest	KEYWORD2
+signalQuality	KEYWORD2

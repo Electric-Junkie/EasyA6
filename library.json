@@ -1,0 +1,21 @@
+{
+  "name": "EasyA6",
+  "version": "0.0.1",
+  "description": "Small library for the A6 GPRS modules. Includes examples for send/receive SMS and http requests.",
+  "keywords": "GSM, AT commands, AT, A6, ESP8266, LTE, LTE-M, GPRS, SMS, http",
+  "authors": [
+    {
+      "name": "Sebastian Vedder",
+      "url": "https://github.com/britax",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Electric-Junkie/EasyA6.git"
+  },
+  "homepage": "https://github.com/Electric-Junkie/EasyA6",
+  "frameworks": ["arduino"],
+  "platforms": "*",
+  "examples": "examples/*/*.ino"
+}
